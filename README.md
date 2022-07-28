@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/medsagou/card-component-challenge.git](https://github.com/medsagou/card-component-challenge.git)
-- Live Site URL: [https://medsagou.github.io/card-component-challenge/](https://medsagou.github.io/card-component-challenge/)
+- Live Site URL: [https://medsagou.github.io/NFT-preview-card-component/](https://medsagou.github.io/NFT-preview-card-component/)
 
 
 ### Built with
